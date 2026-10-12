@@ -1,7 +1,7 @@
-# ubuntu-upmem
+# IMNA UPMEM
 
-Code from my thesis on running multiplication-free (bit-shift) neural network
-layers on the [UPMEM](https://www.upmem.com/) processing-in-memory (PIM)
+Code from my [thesis]( https://purl.utwente.nl/essays/110096) on running multiplication-free (bit-shift) neural network
+layers on the UPMEM processing-in-memory (PIM)
 architecture. It contains DPU kernels for shift-based convolution, a PyTorch
 bridge that offloads layers of a trained model to the DPUs, and the scripts and
 measurements used for the evaluation.
@@ -105,10 +105,11 @@ layout:
 If you use this code, please cite the thesis:
 
 ```bibtex
-@mastersthesis{TODO,
-  author = {Menke Veerman},
-  title  = {TODO: thesis title},
-  school = {TODO: university},
-  year   = {2026}
+@mastersthesis{veerman2026imna,
+  author = {Veerman, Menke},
+  title  = {Design and Evaluation of Governor–Worker Mapping for DeepShift on UPMEM PIM},
+  school = {University of Twente},
+  year   = {2026},
+  url    = {https://purl.utwente.nl/essays/110096}
 }
 ```
