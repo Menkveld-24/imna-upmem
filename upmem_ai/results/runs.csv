@@ -1,0 +1,12 @@
+run_id,created_at,batch_size,notes
+1,2026-05-06T16:07:40.606957,32,'mnist measurement'
+2,2026-05-06T16:07:54.230824,64,'mnist measurement'
+3,2026-05-06T16:08:08.175721,128,'mnist measurement'
+4,2026-05-06T16:08:22.438854,256,'mnist measurement'
+5,2026-05-06T16:08:37.154829,512,'mnist measurement'
+6,2026-05-06T16:08:52.958829,1024,'mnist measurement'
+7,2026-05-06T16:09:11.322893,2000,'mnist measurement'
+8,2026-06-03T10:40:35.168360,1000,'mnist measurement'
+9,2026-06-03T10:46:59.532317,1000,'mnist measurement'
+10,2026-06-03T10:49:36.364366,1000,'mnist measurement'
+11,2026-06-03T10:52:33.268761,1000,'mnist measurement'

@@ -1,0 +1,16 @@
+If:
+  PathMatch: [".*.c", ".*.h"] # Configuration for dpu binaries
+
+CompileFlags:
+  Add: [
+    "-I/usr/include/dpu",
+    "-ldpu",
+    "-std=c11",
+    "-x", "c",
+    "--target=dpu-upmem-dpurte"
+  ]
+# ---
+# If:
+#     PathExclude: [.*host.*.c, .*host.*.h] # Configuration for dpu binaries
+# CompileFlags:
+#     Add: [--target=dpu-upmem-dpurte, -std=c11, -x, c,]

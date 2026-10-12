@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - -std=c++17
+    # Treat it as a "system" include so warnings in torch headers don’t flood you
+    - -isystem
+    - /home/menke/ubuntu-upmem/.venv/lib/python3.10/site-packages/torch/include
+    - -I/usr/include/dpu

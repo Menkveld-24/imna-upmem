@@ -1,0 +1,1121 @@
+run,seed,sign_type,implementation,cycles
+1,0xa3b1799e,dense,Deepshift Optimized,1038224
+1,0xa3b1799e,dense,Int naive,1083408
+1,0xa3b1799e,dense,Float naive,11842832
+1,0xa3b1799e,dense,Int addernet,754752
+1,0xa3b1799e,dense,Float addernet,9866576
+1,0xa3b1799e,dense,No alignment compensation DP,855280
+1,0xa3b1799e,dense,DeepShift Baseline,1171392
+2,0x1c803180,dense,Deepshift Optimized,1056032
+2,0x1c803180,dense,Int naive,1078544
+2,0x1c803180,dense,Float naive,11925488
+2,0x1c803180,dense,Int addernet,760096
+2,0x1c803180,dense,Float addernet,9952352
+2,0x1c803180,dense,No alignment compensation DP,848816
+2,0x1c803180,dense,DeepShift Baseline,1205392
+3,0x6671ad2,dense,Deepshift Optimized,1050048
+3,0x6671ad2,dense,Int naive,1083232
+3,0x6671ad2,dense,Float naive,11929072
+3,0x6671ad2,dense,Int addernet,757408
+3,0x6671ad2,dense,Float addernet,9944848
+3,0x6671ad2,dense,No alignment compensation DP,849008
+3,0x6671ad2,dense,DeepShift Baseline,1199136
+4,0xbdd640fc,dense,Deepshift Optimized,1049920
+4,0xbdd640fc,dense,Int naive,1052160
+4,0xbdd640fc,dense,Float naive,11950992
+4,0xbdd640fc,dense,Int addernet,761376
+4,0xbdd640fc,dense,Float addernet,9988288
+4,0xbdd640fc,dense,No alignment compensation DP,842736
+4,0xbdd640fc,dense,DeepShift Baseline,1192832
+5,0x46685258,dense,Deepshift Optimized,1013472
+5,0x46685258,dense,Int naive,1060480
+5,0x46685258,dense,Float naive,10950576
+5,0x46685258,dense,Int addernet,756016
+5,0x46685258,dense,Float addernet,9589856
+5,0x46685258,dense,No alignment compensation DP,836688
+5,0x46685258,dense,DeepShift Baseline,1153408
+6,0x3eb13b91,dense,Deepshift Optimized,1056064
+6,0x3eb13b91,dense,Int naive,1057088
+6,0x3eb13b91,dense,Float naive,10011472
+6,0x3eb13b91,dense,Int addernet,758368
+6,0x3eb13b91,dense,Float addernet,9263136
+6,0x3eb13b91,dense,No alignment compensation DP,848864
+6,0x3eb13b91,dense,DeepShift Baseline,1205552
+7,0x392456df,dense,Deepshift Optimized,1025824
+7,0x392456df,dense,Int naive,1083552
+7,0x392456df,dense,Float naive,11859392
+7,0x392456df,dense,Int addernet,754752
+7,0x392456df,dense,Float addernet,9929824
+7,0x392456df,dense,No alignment compensation DP,848832
+7,0x392456df,dense,DeepShift Baseline,1171984
+8,0x23b8c1ea,dense,Deepshift Optimized,1062352
+8,0x23b8c1ea,dense,Int naive,1088976
+8,0x23b8c1ea,dense,Float naive,11906048
+8,0x23b8c1ea,dense,Int addernet,757280
+8,0x23b8c1ea,dense,Float addernet,9910512
+8,0x23b8c1ea,dense,No alignment compensation DP,855312
+8,0x23b8c1ea,dense,DeepShift Baseline,1199040
+9,0xbc8960aa,dense,Deepshift Optimized,1025712
+9,0xbc8960aa,dense,Int naive,1072064
+9,0xbc8960aa,dense,Float naive,11890544
+9,0xbc8960aa,dense,Int addernet,756928
+9,0xbc8960aa,dense,Float addernet,9917536
+9,0xbc8960aa,dense,No alignment compensation DP,849008
+9,0xbc8960aa,dense,DeepShift Baseline,1177584
+10,0x1a3d1fa8,dense,Deepshift Optimized,1019600
+10,0x1a3d1fa8,dense,Int naive,1089376
+10,0x1a3d1fa8,dense,Float naive,11889984
+10,0x1a3d1fa8,dense,Int addernet,756080
+10,0x1a3d1fa8,dense,Float addernet,9896944
+10,0x1a3d1fa8,dense,No alignment compensation DP,842928
+10,0x1a3d1fa8,dense,DeepShift Baseline,1165488
+11,0xad3c2d6e,dense,Deepshift Optimized,1043712
+11,0xad3c2d6e,dense,Int naive,1092448
+11,0xad3c2d6e,dense,Float naive,11861504
+11,0xad3c2d6e,dense,Int addernet,757232
+11,0xad3c2d6e,dense,Float addernet,9903504
+11,0xad3c2d6e,dense,No alignment compensation DP,842688
+11,0xad3c2d6e,dense,DeepShift Baseline,1192800
+12,0xbd9c66b4,dense,Deepshift Optimized,1037952
+12,0xbd9c66b4,dense,Int naive,1053104
+12,0xbd9c66b4,dense,Float naive,11910128
+12,0xbd9c66b4,dense,Int addernet,755728
+12,0xbd9c66b4,dense,Float addernet,9928512
+12,0xbd9c66b4,dense,No alignment compensation DP,855440
+12,0xbd9c66b4,dense,DeepShift Baseline,1177776
+13,0xe465e151,dense,Deepshift Optimized,1037904
+13,0xe465e151,dense,Int naive,1079056
+13,0xe465e151,dense,Float naive,11941568
+13,0xe465e151,dense,Int addernet,757504
+13,0xe465e151,dense,Float addernet,9899472
+13,0xe465e151,dense,No alignment compensation DP,855280
+13,0xe465e151,dense,DeepShift Baseline,1189968
+14,0x8b9d2435,dense,Deepshift Optimized,1049824
+14,0x8b9d2435,dense,Int naive,1098096
+14,0x8b9d2435,dense,Float naive,11871824
+14,0x8b9d2435,dense,Int addernet,756064
+14,0x8b9d2435,dense,Float addernet,9865280
+14,0x8b9d2435,dense,No alignment compensation DP,842960
+14,0x8b9d2435,dense,DeepShift Baseline,1192800
+15,0x16419f83,dense,Deepshift Optimized,1019536
+15,0x16419f83,dense,Int naive,1061744
+15,0x16419f83,dense,Float naive,11981536
+15,0x16419f83,dense,Int addernet,761488
+15,0x16419f83,dense,Float addernet,9970880
+15,0x16419f83,dense,No alignment compensation DP,842992
+15,0x16419f83,dense,DeepShift Baseline,1165408
+16,0x972a846a,dense,Deepshift Optimized,1032000
+16,0x972a846a,dense,Int naive,1074880
+16,0x972a846a,dense,Float naive,11980224
+16,0x972a846a,dense,Int addernet,761360
+16,0x972a846a,dense,Float addernet,9994800
+16,0x972a846a,dense,No alignment compensation DP,849088
+16,0x972a846a,dense,DeepShift Baseline,1177856
+17,0x6c03119a,dense,Deepshift Optimized,1020144
+17,0x6c03119a,dense,Int naive,1095024
+17,0x6c03119a,dense,Float naive,11903504
+17,0x6c03119a,dense,Int addernet,758752
+17,0x6c03119a,dense,Float addernet,9921312
+17,0x6c03119a,dense,No alignment compensation DP,830288
+17,0x6c03119a,dense,DeepShift Baseline,1155424
+18,0x822e8f4,dense,Deepshift Optimized,1043712
+18,0x822e8f4,dense,Int naive,1065888
+18,0x822e8f4,dense,Float naive,11903376
+18,0x822e8f4,dense,Int addernet,757568
+18,0x822e8f4,dense,Float addernet,9895936
+18,0x822e8f4,dense,No alignment compensation DP,836368
+18,0x822e8f4,dense,DeepShift Baseline,1174192
+19,0x7a0ca6f,dense,Deepshift Optimized,1025760
+19,0x7a0ca6f,dense,Int naive,1086400
+19,0x7a0ca6f,dense,Float naive,11899952
+19,0x7a0ca6f,dense,Int addernet,756128
+19,0x7a0ca6f,dense,Float addernet,9900976
+19,0x7a0ca6f,dense,No alignment compensation DP,842880
+19,0x7a0ca6f,dense,DeepShift Baseline,1165568
+20,0x17fc695b,dense,Deepshift Optimized,1025760
+20,0x17fc695b,dense,Int naive,1088352
+20,0x17fc695b,dense,Float naive,11963440
+20,0x17fc695b,dense,Int addernet,761392
+20,0x17fc695b,dense,Float addernet,9951600
+20,0x17fc695b,dense,No alignment compensation DP,842816
+20,0x17fc695b,dense,DeepShift Baseline,1165600
+21,0x37f8a88c,dense,Deepshift Optimized,1049872
+21,0x37f8a88c,dense,Int naive,1063856
+21,0x37f8a88c,dense,Float naive,11948944
+21,0x37f8a88c,dense,Int addernet,761504
+21,0x37f8a88c,dense,Float addernet,9952464
+21,0x37f8a88c,dense,No alignment compensation DP,842768
+21,0x37f8a88c,dense,DeepShift Baseline,1192864
+22,0x3b8faa19,dense,Deepshift Optimized,1025952
+22,0x3b8faa19,dense,Int naive,1089152
+22,0x3b8faa19,dense,Float naive,11842768
+22,0x3b8faa19,dense,Int addernet,754832
+22,0x3b8faa19,dense,Float addernet,9840112
+22,0x3b8faa19,dense,No alignment compensation DP,842720
+22,0x3b8faa19,dense,DeepShift Baseline,1159616
+23,0x815ef6d2,dense,Deepshift Optimized,1043584
+23,0x815ef6d2,dense,Int naive,1095792
+23,0x815ef6d2,dense,Float naive,11895280
+23,0x815ef6d2,dense,Int addernet,755552
+23,0x815ef6d2,dense,Float addernet,9865920
+23,0x815ef6d2,dense,No alignment compensation DP,836496
+23,0x815ef6d2,dense,DeepShift Baseline,1174016
+24,0x9a1de645,dense,Deepshift Optimized,1037920
+24,0x9a1de645,dense,Int naive,1087024
+24,0x9a1de645,dense,Float naive,11923584
+24,0x9a1de645,dense,Int addernet,756048
+24,0x9a1de645,dense,Float addernet,9904336
+24,0x9a1de645,dense,No alignment compensation DP,855168
+24,0x9a1de645,dense,DeepShift Baseline,1190080
+25,0x6cb0fb4,dense,Deepshift Optimized,1026368
+25,0x6cb0fb4,dense,Int naive,1089728
+25,0x6cb0fb4,dense,Float naive,11858176
+25,0x6cb0fb4,dense,Int addernet,754688
+25,0x6cb0fb4,dense,Float addernet,9876016
+25,0x6cb0fb4,dense,No alignment compensation DP,836496
+25,0x6cb0fb4,dense,DeepShift Baseline,1155376
+26,0x8fadc1a7,dense,Deepshift Optimized,1025888
+26,0x8fadc1a7,dense,Int naive,1048176
+26,0x8fadc1a7,dense,Float naive,11953632
+26,0x8fadc1a7,dense,Int addernet,761440
+26,0x8fadc1a7,dense,Float addernet,9994112
+26,0x8fadc1a7,dense,No alignment compensation DP,849328
+26,0x8fadc1a7,dense,DeepShift Baseline,1177680
+27,0x32e7062a,dense,Deepshift Optimized,1031856
+27,0x32e7062a,dense,Int naive,1077584
+27,0x32e7062a,dense,Float naive,11886576
+27,0x32e7062a,dense,Int addernet,756080
+27,0x32e7062a,dense,Float addernet,9923008
+27,0x32e7062a,dense,No alignment compensation DP,849200
+27,0x32e7062a,dense,DeepShift Baseline,1177856
+28,0xb74d0fb2,dense,Deepshift Optimized,1019792
+28,0xb74d0fb2,dense,Int naive,1055712
+28,0xb74d0fb2,dense,Float naive,11901952
+28,0xb74d0fb2,dense,Int addernet,757520
+28,0xb74d0fb2,dense,Float addernet,9923440
+28,0xb74d0fb2,dense,No alignment compensation DP,842784
+28,0xb74d0fb2,dense,DeepShift Baseline,1159280
+29,0xa65ed38a,dense,Deepshift Optimized,1030976
+29,0xa65ed38a,dense,Int naive,1094704
+29,0xa65ed38a,dense,Float naive,11936256
+29,0xa65ed38a,dense,Int addernet,759856
+29,0xa65ed38a,dense,Float addernet,9920864
+29,0xa65ed38a,dense,No alignment compensation DP,830384
+29,0xa65ed38a,dense,DeepShift Baseline,1155344
+30,0xb38a088d,dense,Deepshift Optimized,1024912
+30,0xb38a088d,dense,Int naive,1089984
+30,0xb38a088d,dense,Float naive,11900480
+30,0xb38a088d,dense,Int addernet,757392
+30,0xb38a088d,dense,Float addernet,9905344
+30,0xb38a088d,dense,No alignment compensation DP,823952
+30,0xb38a088d,dense,DeepShift Baseline,1142880
+31,0x8b8148f7,dense,Deepshift Optimized,1037328
+31,0x8b8148f7,dense,Int naive,1088080
+31,0x8b8148f7,dense,Float naive,11832048
+31,0x8b8148f7,dense,Int addernet,755600
+31,0x8b8148f7,dense,Float addernet,9860976
+31,0x8b8148f7,dense,No alignment compensation DP,836784
+31,0x8b8148f7,dense,DeepShift Baseline,1180432
+32,0x6b65a6a5,dense,Deepshift Optimized,1026432
+32,0x6b65a6a5,dense,Int naive,1091344
+32,0x6b65a6a5,dense,Float naive,11889008
+32,0x6b65a6a5,dense,Int addernet,756064
+32,0x6b65a6a5,dense,Float addernet,9878368
+32,0x6b65a6a5,dense,No alignment compensation DP,836592
+32,0x6b65a6a5,dense,DeepShift Baseline,1161872
+33,0x386ecbe1,dense,Deepshift Optimized,1051232
+33,0x386ecbe1,dense,Int naive,1081408
+33,0x386ecbe1,dense,Float naive,11945216
+33,0x386ecbe1,dense,Int addernet,759936
+33,0x386ecbe1,dense,Float addernet,9980560
+33,0x386ecbe1,dense,No alignment compensation DP,855344
+33,0x386ecbe1,dense,DeepShift Baseline,1204768
+34,0x72ff5d2b,dense,Deepshift Optimized,1031856
+34,0x72ff5d2b,dense,Int naive,1029136
+34,0x72ff5d2b,dense,Float naive,11006960
+34,0x72ff5d2b,dense,Int addernet,761088
+34,0x72ff5d2b,dense,Float addernet,9681600
+34,0x72ff5d2b,dense,No alignment compensation DP,849024
+34,0x72ff5d2b,dense,DeepShift Baseline,1171552
+35,0x96da1dad,dense,Deepshift Optimized,1038688
+35,0x96da1dad,dense,Int naive,1078096
+35,0x96da1dad,dense,Float naive,11973968
+35,0x96da1dad,dense,Int addernet,760000
+35,0x96da1dad,dense,Float addernet,9966272
+35,0x96da1dad,dense,No alignment compensation DP,842704
+35,0x96da1dad,dense,DeepShift Baseline,1180320
+36,0x47378191,dense,Deepshift Optimized,1025744
+36,0x47378191,dense,Int naive,1092704
+36,0x47378191,dense,Float naive,11900384
+36,0x47378191,dense,Int addernet,754816
+36,0x47378191,dense,Float addernet,9864192
+36,0x47378191,dense,No alignment compensation DP,842736
+36,0x47378191,dense,DeepShift Baseline,1165360
+37,0xcf36d58c,dense,Deepshift Optimized,1031088
+37,0xcf36d58c,dense,Int naive,1095280
+37,0xcf36d58c,dense,Float naive,11909104
+37,0xcf36d58c,dense,Int addernet,759968
+37,0xcf36d58c,dense,Float addernet,9914912
+37,0xcf36d58c,dense,No alignment compensation DP,830208
+37,0xcf36d58c,dense,DeepShift Baseline,1161600
+38,0xde8a774c,dense,Deepshift Optimized,1038736
+38,0xde8a774c,dense,Int naive,1054816
+38,0xde8a774c,dense,Float naive,11914992
+38,0xde8a774c,dense,Int addernet,757360
+38,0xde8a774c,dense,Float addernet,9930352
+38,0xde8a774c,dense,No alignment compensation DP,842688
+38,0xde8a774c,dense,DeepShift Baseline,1161536
+39,0x1a9e720,dense,Deepshift Optimized,1019776
+39,0x1a9e720,dense,Int naive,1084960
+39,0x1a9e720,dense,Float naive,12026384
+39,0x1a9e720,dense,Int addernet,761456
+39,0x1a9e720,dense,Float addernet,9988160
+39,0x1a9e720,dense,No alignment compensation DP,842672
+39,0x1a9e720,dense,DeepShift Baseline,1159520
+40,0xc241330c,dense,Deepshift Optimized,1013584
+40,0xc241330c,dense,Int naive,1069872
+40,0xc241330c,dense,Float naive,11959424
+40,0xc241330c,dense,Int addernet,761264
+40,0xc241330c,dense,Float addernet,10011632
+40,0xc241330c,dense,No alignment compensation DP,836480
+40,0xc241330c,dense,DeepShift Baseline,1147296
+41,0xce4a2bbe,dense,Deepshift Optimized,1038016
+41,0xce4a2bbe,dense,Int naive,1062784
+41,0xce4a2bbe,dense,Float naive,11918160
+41,0xce4a2bbe,dense,Int addernet,757520
+41,0xce4a2bbe,dense,Float addernet,9941632
+41,0xce4a2bbe,dense,No alignment compensation DP,855344
+41,0xce4a2bbe,dense,DeepShift Baseline,1189968
+42,0x28df6ec5,dense,Deepshift Optimized,1031008
+42,0x28df6ec5,dense,Int naive,1095168
+42,0x28df6ec5,dense,Float naive,11965136
+42,0x28df6ec5,dense,Int addernet,761072
+42,0x28df6ec5,dense,Float addernet,9987392
+42,0x28df6ec5,dense,No alignment compensation DP,830336
+42,0x28df6ec5,dense,DeepShift Baseline,1168112
+43,0xb2b9437b,dense,Deepshift Optimized,1043568
+43,0xb2b9437b,dense,Int naive,1066752
+43,0xb2b9437b,dense,Float naive,11933712
+43,0xb2b9437b,dense,Int addernet,754816
+43,0xb2b9437b,dense,Float addernet,9903568
+43,0xb2b9437b,dense,No alignment compensation DP,842672
+43,0xb2b9437b,dense,DeepShift Baseline,1192848
+44,0x6c307512,dense,Deepshift Optimized,1031808
+44,0x6c307512,dense,Int naive,1074576
+44,0x6c307512,dense,Float naive,10912672
+44,0x6c307512,dense,Int addernet,757472
+44,0x6c307512,dense,Float addernet,9586544
+44,0x6c307512,dense,No alignment compensation DP,848944
+44,0x6c307512,dense,DeepShift Baseline,1171696
+45,0x571aa877,dense,Deepshift Optimized,1031840
+45,0x571aa877,dense,Int naive,1085056
+45,0x571aa877,dense,Float naive,11926832
+45,0x571aa877,dense,Int addernet,758768
+45,0x571aa877,dense,Float addernet,9939696
+45,0x571aa877,dense,No alignment compensation DP,848944
+45,0x571aa877,dense,DeepShift Baseline,1177632
+46,0x4722938a,dense,Deepshift Optimized,1043680
+46,0x4722938a,dense,Int naive,1092704
+46,0x4722938a,dense,Float naive,11951984
+46,0x4722938a,dense,Int addernet,758192
+46,0x4722938a,dense,Float addernet,9948208
+46,0x4722938a,dense,No alignment compensation DP,836512
+46,0x4722938a,dense,DeepShift Baseline,1174048
+47,0x27cd8131,dense,Deepshift Optimized,1025856
+47,0x27cd8131,dense,Int naive,1085792
+47,0x27cd8131,dense,Float naive,11925136
+47,0x27cd8131,dense,Int addernet,757296
+47,0x27cd8131,dense,Float addernet,9911568
+47,0x27cd8131,dense,No alignment compensation DP,842784
+47,0x27cd8131,dense,DeepShift Baseline,1153216
+48,0x371ecd7c,dense,Deepshift Optimized,1037376
+48,0x371ecd7c,dense,Int naive,1096272
+48,0x371ecd7c,dense,Float naive,11921296
+48,0x371ecd7c,dense,Int addernet,757296
+48,0x371ecd7c,dense,Float addernet,9898256
+48,0x371ecd7c,dense,No alignment compensation DP,836560
+48,0x371ecd7c,dense,DeepShift Baseline,1161568
+49,0xf50bea64,dense,Deepshift Optimized,1013440
+49,0xf50bea64,dense,Int naive,1057856
+49,0xf50bea64,dense,Float naive,11837904
+49,0xf50bea64,dense,Int addernet,754496
+49,0xf50bea64,dense,Float addernet,9877984
+49,0xf50bea64,dense,No alignment compensation DP,836608
+49,0xf50bea64,dense,DeepShift Baseline,1134944
+50,0xc37459ef,dense,Deepshift Optimized,1038096
+50,0xc37459ef,dense,Int naive,1067808
+50,0xc37459ef,dense,Float naive,11903280
+50,0xc37459ef,dense,Int addernet,757264
+50,0xc37459ef,dense,Float addernet,9941632
+50,0xc37459ef,dense,No alignment compensation DP,855408
+50,0xc37459ef,dense,DeepShift Baseline,1189808
+51,0x562b0f7a,dense,Deepshift Optimized,1038656
+51,0x562b0f7a,dense,Int naive,1060800
+51,0x562b0f7a,dense,Float naive,11919120
+51,0x562b0f7a,dense,Int addernet,756016
+51,0x562b0f7a,dense,Float addernet,9912128
+51,0x562b0f7a,dense,No alignment compensation DP,855280
+51,0x562b0f7a,dense,DeepShift Baseline,1183840
+52,0x1a2a73ee,dense,Deepshift Optimized,1031920
+52,0x1a2a73ee,dense,Int naive,1084256
+52,0x1a2a73ee,dense,Float naive,11878336
+52,0x1a2a73ee,dense,Int addernet,757232
+52,0x1a2a73ee,dense,Float addernet,9931552
+52,0x1a2a73ee,dense,No alignment compensation DP,855520
+52,0x1a2a73ee,dense,DeepShift Baseline,1189904
+53,0x17be3112,dense,Deepshift Optimized,1038736
+53,0x17be3112,dense,Int naive,1078672
+53,0x17be3112,dense,Float naive,11872928
+53,0x17be3112,dense,Int addernet,756272
+53,0x17be3112,dense,Float addernet,9885712
+53,0x17be3112,dense,No alignment compensation DP,842672
+53,0x17be3112,dense,DeepShift Baseline,1180288
+54,0x6142ea7e,dense,Deepshift Optimized,1019664
+54,0x6142ea7e,dense,Int naive,1082080
+54,0x6142ea7e,dense,Float naive,11990880
+54,0x6142ea7e,dense,Int addernet,761296
+54,0x6142ea7e,dense,Float addernet,9981232
+54,0x6142ea7e,dense,No alignment compensation DP,836576
+54,0x6142ea7e,dense,DeepShift Baseline,1147088
+55,0x18c26798,dense,Deepshift Optimized,1032000
+55,0x18c26798,dense,Int naive,1075712
+55,0x18c26798,dense,Float naive,11849504
+55,0x18c26798,dense,Int addernet,755872
+55,0x18c26798,dense,Float addernet,9900272
+55,0x18c26798,dense,No alignment compensation DP,848960
+55,0x18c26798,dense,DeepShift Baseline,1177744
+56,0x5be6128f,dense,Deepshift Optimized,1037408
+56,0x5be6128f,dense,Int naive,1103104
+56,0x5be6128f,dense,Float naive,11865632
+56,0x5be6128f,dense,Int addernet,756080
+56,0x5be6128f,dense,Float addernet,9845872
+56,0x5be6128f,dense,No alignment compensation DP,836528
+56,0x5be6128f,dense,DeepShift Baseline,1180288
+57,0xd8f56414,dense,Deepshift Optimized,1055952
+57,0xd8f56414,dense,Int naive,1092688
+57,0xd8f56414,dense,Float naive,11943984
+57,0xd8f56414,dense,Int addernet,761248
+57,0xd8f56414,dense,Float addernet,9954560
+57,0xd8f56414,dense,No alignment compensation DP,849200
+57,0xd8f56414,dense,DeepShift Baseline,1192944
+58,0x580d7b72,dense,Deepshift Optimized,1025792
+58,0x580d7b72,dense,Int naive,1085472
+58,0x580d7b72,dense,Float naive,11902112
+58,0x580d7b72,dense,Int addernet,756016
+58,0x580d7b72,dense,Float addernet,9872656
+58,0x580d7b72,dense,No alignment compensation DP,842768
+58,0x580d7b72,dense,DeepShift Baseline,1165408
+59,0x9a8dca04,dense,Deepshift Optimized,1025680
+59,0x9a8dca04,dense,Int naive,1025808
+59,0x9a8dca04,dense,Float naive,11031936
+59,0x9a8dca04,dense,Int addernet,760080
+59,0x9a8dca04,dense,Float addernet,9660288
+59,0x9a8dca04,dense,No alignment compensation DP,849152
+59,0x9a8dca04,dense,DeepShift Baseline,1177776
+60,0x43b7a3a7,dense,Deepshift Optimized,1020192
+60,0x43b7a3a7,dense,Int naive,1099536
+60,0x43b7a3a7,dense,Float naive,11992160
+60,0x43b7a3a7,dense,Int addernet,761104
+60,0x43b7a3a7,dense,Float addernet,9963856
+60,0x43b7a3a7,dense,No alignment compensation DP,830192
+60,0x43b7a3a7,dense,DeepShift Baseline,1155440
+61,0xce9ff580,dense,Deepshift Optimized,1037936
+61,0xce9ff580,dense,Int naive,1077216
+61,0xce9ff580,dense,Float naive,11943520
+61,0xce9ff580,dense,Int addernet,755952
+61,0xce9ff580,dense,Float addernet,9897056
+61,0xce9ff580,dense,No alignment compensation DP,855056
+61,0xce9ff580,dense,DeepShift Baseline,1190000
+62,0xb1f9164,dense,Deepshift Optimized,1025904
+62,0xb1f9164,dense,Int naive,1091424
+62,0xb1f9164,dense,Float naive,11839392
+62,0xb1f9164,dense,Int addernet,756032
+62,0xb1f9164,dense,Float addernet,9874048
+62,0xb1f9164,dense,No alignment compensation DP,849152
+62,0xb1f9164,dense,DeepShift Baseline,1177776
+63,0xbacfb3d1,dense,Deepshift Optimized,1025600
+63,0xbacfb3d1,dense,Int naive,1102976
+63,0xbacfb3d1,dense,Float naive,11862880
+63,0xbacfb3d1,dense,Int addernet,756272
+63,0xbacfb3d1,dense,Float addernet,9846016
+63,0xbacfb3d1,dense,No alignment compensation DP,842608
+63,0xbacfb3d1,dense,DeepShift Baseline,1165488
+64,0x759cde67,dense,Deepshift Optimized,1032048
+64,0x759cde67,dense,Int naive,1082384
+64,0x759cde67,dense,Float naive,11921168
+64,0x759cde67,dense,Int addernet,758736
+64,0x759cde67,dense,Float addernet,9940288
+64,0x759cde67,dense,No alignment compensation DP,848864
+64,0x759cde67,dense,DeepShift Baseline,1177760
+65,0x89463e86,dense,Deepshift Optimized,1026288
+65,0x89463e86,dense,Int naive,1096144
+65,0x89463e86,dense,Float naive,11955408
+65,0x89463e86,dense,Int addernet,759488
+65,0x89463e86,dense,Float addernet,9933184
+65,0x89463e86,dense,No alignment compensation DP,836464
+65,0x89463e86,dense,DeepShift Baseline,1168064
+66,0x1ff49b79,dense,Deepshift Optimized,1032080
+66,0x1ff49b79,dense,Int naive,1045264
+66,0x1ff49b79,dense,Float naive,11013808
+66,0x1ff49b79,dense,Int addernet,760016
+66,0x1ff49b79,dense,Float addernet,9671632
+66,0x1ff49b79,dense,No alignment compensation DP,855200
+66,0x1ff49b79,dense,DeepShift Baseline,1189760
+67,0xf91e1d4d,dense,Deepshift Optimized,1055936
+67,0xf91e1d4d,dense,Int naive,1095776
+67,0xf91e1d4d,dense,Float naive,11946640
+67,0xf91e1d4d,dense,Int addernet,760224
+67,0xf91e1d4d,dense,Float addernet,9926928
+67,0xf91e1d4d,dense,No alignment compensation DP,849104
+67,0xf91e1d4d,dense,DeepShift Baseline,1205136
+68,0xec1b8ca2,dense,Deepshift Optimized,1019632
+68,0xec1b8ca2,dense,Int naive,1084640
+68,0xec1b8ca2,dense,Float naive,11858656
+68,0xec1b8ca2,dense,Int addernet,756048
+68,0xec1b8ca2,dense,Float addernet,9893648
+68,0xec1b8ca2,dense,No alignment compensation DP,842864
+68,0xec1b8ca2,dense,DeepShift Baseline,1165632
+69,0x60e7a114,dense,Deepshift Optimized,1032544
+69,0x60e7a114,dense,Int naive,1042160
+69,0x60e7a114,dense,Float naive,11887376
+69,0x60e7a114,dense,Int addernet,756064
+69,0x60e7a114,dense,Float addernet,9915984
+69,0x60e7a114,dense,No alignment compensation DP,842560
+69,0x60e7a114,dense,DeepShift Baseline,1174000
+70,0x142c3fe9,dense,Deepshift Optimized,1031904
+70,0x142c3fe9,dense,Int naive,1072080
+70,0x142c3fe9,dense,Float naive,11953040
+70,0x142c3fe9,dense,Int addernet,757552
+70,0x142c3fe9,dense,Float addernet,9924912
+70,0x142c3fe9,dense,No alignment compensation DP,849056
+70,0x142c3fe9,dense,DeepShift Baseline,1177616
+71,0x8d5288f2,dense,Deepshift Optimized,1043744
+71,0x8d5288f2,dense,Int naive,1099984
+71,0x8d5288f2,dense,Float naive,11944976
+71,0x8d5288f2,dense,Int addernet,758624
+71,0x8d5288f2,dense,Float addernet,9932384
+71,0x8d5288f2,dense,No alignment compensation DP,842736
+71,0x8d5288f2,dense,DeepShift Baseline,1180352
+72,0x4b0dbb42,dense,Deepshift Optimized,1043648
+72,0x4b0dbb42,dense,Int naive,1091328
+72,0x4b0dbb42,dense,Float naive,11956416
+72,0x4b0dbb42,dense,Int addernet,759856
+72,0x4b0dbb42,dense,Float addernet,9920960
+72,0x4b0dbb42,dense,No alignment compensation DP,836496
+72,0x4b0dbb42,dense,DeepShift Baseline,1174048
+73,0xd453dd33,dense,Deepshift Optimized,1038096
+73,0xd453dd33,dense,Int naive,1064480
+73,0xd453dd33,dense,Float naive,11915616
+73,0xd453dd33,dense,Int addernet,758544
+73,0xd453dd33,dense,Float addernet,9983872
+73,0xd453dd33,dense,No alignment compensation DP,861568
+73,0xd453dd33,dense,DeepShift Baseline,1196048
+74,0xa0ee89af,dense,Deepshift Optimized,1025536
+74,0xa0ee89af,dense,Int naive,1050496
+74,0xa0ee89af,dense,Float naive,10983472
+74,0xa0ee89af,dense,Int addernet,761136
+74,0xa0ee89af,dense,Float addernet,9689424
+74,0xa0ee89af,dense,No alignment compensation DP,849200
+74,0xa0ee89af,dense,DeepShift Baseline,1177536
+75,0x9e574f7b,dense,Deepshift Optimized,1037504
+75,0x9e574f7b,dense,Int naive,1086368
+75,0x9e574f7b,dense,Float naive,11898336
+75,0x9e574f7b,dense,Int addernet,757392
+75,0x9e574f7b,dense,Float addernet,9873360
+75,0x9e574f7b,dense,No alignment compensation DP,836704
+75,0x9e574f7b,dense,DeepShift Baseline,1180336
+76,0xe2acf730,dense,Deepshift Optimized,1043568
+76,0xe2acf730,dense,Int naive,1040672
+76,0xe2acf730,dense,Float naive,11959904
+76,0xe2acf730,dense,Int addernet,760256
+76,0xe2acf730,dense,Float addernet,9963504
+76,0xe2acf730,dense,No alignment compensation DP,842560
+76,0xe2acf730,dense,DeepShift Baseline,1192816
+77,0xdc98d2c2,dense,Deepshift Optimized,1031920
+77,0xdc98d2c2,dense,Int naive,1092144
+77,0xdc98d2c2,dense,Float naive,11980752
+77,0xdc98d2c2,dense,Int addernet,761168
+77,0xdc98d2c2,dense,Float addernet,9985776
+77,0xdc98d2c2,dense,No alignment compensation DP,848784
+77,0xdc98d2c2,dense,DeepShift Baseline,1165568
+78,0x5c941cf1,dense,Deepshift Optimized,1025648
+78,0x5c941cf1,dense,Int naive,1091232
+78,0x5c941cf1,dense,Float naive,11917216
+78,0x5c941cf1,dense,Int addernet,758672
+78,0x5c941cf1,dense,Float addernet,9960608
+78,0x5c941cf1,dense,No alignment compensation DP,842880
+78,0x5c941cf1,dense,DeepShift Baseline,1165488
+79,0x93cd59c0,dense,Deepshift Optimized,1044944
+79,0x93cd59c0,dense,Int naive,1082880
+79,0x93cd59c0,dense,Float naive,11872096
+79,0x93cd59c0,dense,Int addernet,757184
+79,0x93cd59c0,dense,Float addernet,9905120
+79,0x93cd59c0,dense,No alignment compensation DP,855312
+79,0x93cd59c0,dense,DeepShift Baseline,1198752
+80,0x3139d32d,dense,Deepshift Optimized,1049760
+80,0x3139d32d,dense,Int naive,1078624
+80,0x3139d32d,dense,Float naive,11935888
+80,0x3139d32d,dense,Int addernet,758352
+80,0x3139d32d,dense,Float addernet,9931920
+80,0x3139d32d,dense,No alignment compensation DP,842816
+80,0x3139d32d,dense,DeepShift Baseline,1192864
+1,0xa3b1799e,realistic,Deepshift Optimized,476464
+1,0xa3b1799e,realistic,Int naive,1083072
+1,0xa3b1799e,realistic,Float naive,11842032
+1,0xa3b1799e,realistic,Int addernet,754720
+1,0xa3b1799e,realistic,Float addernet,9865664
+1,0xa3b1799e,realistic,No alignment compensation DP,417312
+1,0xa3b1799e,realistic,DeepShift Baseline,512720
+2,0x1c803180,realistic,Deepshift Optimized,699984
+2,0x1c803180,realistic,Int naive,1078880
+2,0x1c803180,realistic,Float naive,11925680
+2,0x1c803180,realistic,Int addernet,760032
+2,0x1c803180,realistic,Float addernet,9951008
+2,0x1c803180,realistic,No alignment compensation DP,555040
+2,0x1c803180,realistic,DeepShift Baseline,774336
+3,0x6671ad2,realistic,Deepshift Optimized,845616
+3,0x6671ad2,realistic,Int naive,1083664
+3,0x6671ad2,realistic,Float naive,11928704
+3,0x6671ad2,realistic,Int addernet,757472
+3,0x6671ad2,realistic,Float addernet,9943680
+3,0x6671ad2,realistic,No alignment compensation DP,642848
+3,0x6671ad2,realistic,DeepShift Baseline,945136
+4,0xbdd640fc,realistic,Deepshift Optimized,593888
+4,0xbdd640fc,realistic,Int naive,1052304
+4,0xbdd640fc,realistic,Float naive,11951952
+4,0xbdd640fc,realistic,Int addernet,761424
+4,0xbdd640fc,realistic,Float addernet,9987104
+4,0xbdd640fc,realistic,No alignment compensation DP,486208
+4,0xbdd640fc,realistic,DeepShift Baseline,649360
+5,0x46685258,realistic,Deepshift Optimized,500880
+5,0x46685258,realistic,Int naive,1060736
+5,0x46685258,realistic,Float naive,10949952
+5,0x46685258,realistic,Int addernet,755568
+5,0x46685258,realistic,Float addernet,9589536
+5,0x46685258,realistic,No alignment compensation DP,417280
+5,0x46685258,realistic,DeepShift Baseline,536960
+6,0x3eb13b91,realistic,Deepshift Optimized,688400
+6,0x3eb13b91,realistic,Int naive,1056752
+6,0x3eb13b91,realistic,Float naive,10011472
+6,0x3eb13b91,realistic,Int addernet,758496
+6,0x3eb13b91,realistic,Float addernet,9262720
+6,0x3eb13b91,realistic,No alignment compensation DP,561184
+6,0x3eb13b91,realistic,DeepShift Baseline,768928
+7,0x392456df,realistic,Deepshift Optimized,457776
+7,0x392456df,realistic,Int naive,1083504
+7,0x392456df,realistic,Float naive,11860192
+7,0x392456df,realistic,Int addernet,754720
+7,0x392456df,realistic,Float addernet,9930032
+7,0x392456df,realistic,No alignment compensation DP,342336
+7,0x392456df,realistic,DeepShift Baseline,494800
+8,0x23b8c1ea,realistic,Deepshift Optimized,694688
+8,0x23b8c1ea,realistic,Int naive,1089072
+8,0x23b8c1ea,realistic,Float naive,11907472
+8,0x23b8c1ea,realistic,Int addernet,757328
+8,0x23b8c1ea,realistic,Float addernet,9910096
+8,0x23b8c1ea,realistic,No alignment compensation DP,561440
+8,0x23b8c1ea,realistic,DeepShift Baseline,794080
+9,0xbc8960aa,realistic,Deepshift Optimized,758048
+9,0xbc8960aa,realistic,Int naive,1071712
+9,0xbc8960aa,realistic,Float naive,11890768
+9,0xbc8960aa,realistic,Int addernet,756816
+9,0xbc8960aa,realistic,Float addernet,9918000
+9,0xbc8960aa,realistic,No alignment compensation DP,554896
+9,0xbc8960aa,realistic,DeepShift Baseline,826400
+10,0x1a3d1fa8,realistic,Deepshift Optimized,526704
+10,0x1a3d1fa8,realistic,Int naive,1089488
+10,0x1a3d1fa8,realistic,Float naive,11892032
+10,0x1a3d1fa8,realistic,Int addernet,755776
+10,0x1a3d1fa8,realistic,Float addernet,9897184
+10,0x1a3d1fa8,realistic,No alignment compensation DP,411008
+10,0x1a3d1fa8,realistic,DeepShift Baseline,557088
+11,0xad3c2d6e,realistic,Deepshift Optimized,762592
+11,0xad3c2d6e,realistic,Int naive,1092016
+11,0xad3c2d6e,realistic,Float naive,11860992
+11,0xad3c2d6e,realistic,Int addernet,757328
+11,0xad3c2d6e,realistic,Float addernet,9902128
+11,0xad3c2d6e,realistic,No alignment compensation DP,623744
+11,0xad3c2d6e,realistic,DeepShift Baseline,849536
+12,0xbd9c66b4,realistic,Deepshift Optimized,432880
+12,0xbd9c66b4,realistic,Int naive,1053376
+12,0xbd9c66b4,realistic,Float naive,11908960
+12,0xbd9c66b4,realistic,Int addernet,756064
+12,0xbd9c66b4,realistic,Float addernet,9926960
+12,0xbd9c66b4,realistic,No alignment compensation DP,342208
+12,0xbd9c66b4,realistic,DeepShift Baseline,482192
+13,0xe465e151,realistic,Deepshift Optimized,483504
+13,0xe465e151,realistic,Int naive,1079168
+13,0xe465e151,realistic,Float naive,11940944
+13,0xe465e151,realistic,Int addernet,757568
+13,0xe465e151,realistic,Float addernet,9899024
+13,0xe465e151,realistic,No alignment compensation DP,417296
+13,0xe465e151,realistic,DeepShift Baseline,544640
+14,0x8b9d2435,realistic,Deepshift Optimized,594752
+14,0x8b9d2435,realistic,Int naive,1097744
+14,0x8b9d2435,realistic,Float naive,11871712
+14,0x8b9d2435,realistic,Int addernet,756048
+14,0x8b9d2435,realistic,Float addernet,9863360
+14,0x8b9d2435,realistic,No alignment compensation DP,479888
+14,0x8b9d2435,realistic,DeepShift Baseline,644048
+15,0x16419f83,realistic,Deepshift Optimized,757280
+15,0x16419f83,realistic,Int naive,1061680
+15,0x16419f83,realistic,Float naive,11982272
+15,0x16419f83,realistic,Int addernet,761408
+15,0x16419f83,realistic,Float addernet,9969472
+15,0x16419f83,realistic,No alignment compensation DP,623904
+15,0x16419f83,realistic,DeepShift Baseline,842128
+16,0x972a846a,realistic,Deepshift Optimized,532800
+16,0x972a846a,realistic,Int naive,1075056
+16,0x972a846a,realistic,Float naive,11979056
+16,0x972a846a,realistic,Int addernet,761360
+16,0x972a846a,realistic,Float addernet,9992752
+16,0x972a846a,realistic,No alignment compensation DP,417376
+16,0x972a846a,realistic,DeepShift Baseline,576032
+17,0x6c03119a,realistic,Deepshift Optimized,708080
+17,0x6c03119a,realistic,Int naive,1095312
+17,0x6c03119a,realistic,Float naive,11902768
+17,0x6c03119a,realistic,Int addernet,758752
+17,0x6c03119a,realistic,Float addernet,9920496
+17,0x6c03119a,realistic,No alignment compensation DP,548608
+17,0x6c03119a,realistic,DeepShift Baseline,782368
+18,0x822e8f4,realistic,Deepshift Optimized,587648
+18,0x822e8f4,realistic,Int naive,1065696
+18,0x822e8f4,realistic,Float naive,11903232
+18,0x822e8f4,realistic,Int addernet,757536
+18,0x822e8f4,realistic,Float addernet,9894224
+18,0x822e8f4,realistic,No alignment compensation DP,480112
+18,0x822e8f4,realistic,DeepShift Baseline,643312
+19,0x7a0ca6f,realistic,Deepshift Optimized,345440
+19,0x7a0ca6f,realistic,Int naive,1086080
+19,0x7a0ca6f,realistic,Float naive,11897632
+19,0x7a0ca6f,realistic,Int addernet,756176
+19,0x7a0ca6f,realistic,Float addernet,9899152
+19,0x7a0ca6f,realistic,No alignment compensation DP,267312
+19,0x7a0ca6f,realistic,DeepShift Baseline,357088
+20,0x17fc695b,realistic,Deepshift Optimized,739296
+20,0x17fc695b,realistic,Int naive,1088112
+20,0x17fc695b,realistic,Float naive,11963216
+20,0x17fc695b,realistic,Int addernet,761408
+20,0x17fc695b,realistic,Float addernet,9950336
+20,0x17fc695b,realistic,No alignment compensation DP,630208
+20,0x17fc695b,realistic,DeepShift Baseline,860352
+21,0x37f8a88c,realistic,Deepshift Optimized,868736
+21,0x37f8a88c,realistic,Int naive,1064112
+21,0x37f8a88c,realistic,Float naive,11946528
+21,0x37f8a88c,realistic,Int addernet,761424
+21,0x37f8a88c,realistic,Float addernet,9951872
+21,0x37f8a88c,realistic,No alignment compensation DP,698736
+21,0x37f8a88c,realistic,DeepShift Baseline,986992
+22,0x3b8faa19,realistic,Deepshift Optimized,647264
+22,0x3b8faa19,realistic,Int naive,1088848
+22,0x3b8faa19,realistic,Float naive,11841472
+22,0x3b8faa19,realistic,Int addernet,754608
+22,0x3b8faa19,realistic,Float addernet,9840080
+22,0x3b8faa19,realistic,No alignment compensation DP,548768
+22,0x3b8faa19,realistic,DeepShift Baseline,720368
+23,0x815ef6d2,realistic,Deepshift Optimized,532688
+23,0x815ef6d2,realistic,Int naive,1095728
+23,0x815ef6d2,realistic,Float naive,11894400
+23,0x815ef6d2,realistic,Int addernet,755328
+23,0x815ef6d2,realistic,Float addernet,9863936
+23,0x815ef6d2,realistic,No alignment compensation DP,411136
+23,0x815ef6d2,realistic,DeepShift Baseline,588592
+24,0x9a1de645,realistic,Deepshift Optimized,335040
+24,0x9a1de645,realistic,Int naive,1087216
+24,0x9a1de645,realistic,Float naive,11922384
+24,0x9a1de645,realistic,Int addernet,756096
+24,0x9a1de645,realistic,Float addernet,9902256
+24,0x9a1de645,realistic,No alignment compensation DP,273648
+24,0x9a1de645,realistic,DeepShift Baseline,346960
+25,0x6cb0fb4,realistic,Deepshift Optimized,413920
+25,0x6cb0fb4,realistic,Int naive,1089776
+25,0x6cb0fb4,realistic,Float naive,11857488
+25,0x6cb0fb4,realistic,Int addernet,754656
+25,0x6cb0fb4,realistic,Float addernet,9874848
+25,0x6cb0fb4,realistic,No alignment compensation DP,336176
+25,0x6cb0fb4,realistic,DeepShift Baseline,432128
+26,0x8fadc1a7,realistic,Deepshift Optimized,607280
+26,0x8fadc1a7,realistic,Int naive,1048064
+26,0x8fadc1a7,realistic,Float naive,11952464
+26,0x8fadc1a7,realistic,Int addernet,761440
+26,0x8fadc1a7,realistic,Float addernet,9993120
+26,0x8fadc1a7,realistic,No alignment compensation DP,479904
+26,0x8fadc1a7,realistic,DeepShift Baseline,675376
+27,0x32e7062a,realistic,Deepshift Optimized,702544
+27,0x32e7062a,realistic,Int naive,1077488
+27,0x32e7062a,realistic,Float naive,11885408
+27,0x32e7062a,realistic,Int addernet,756048
+27,0x32e7062a,realistic,Float addernet,9920672
+27,0x32e7062a,realistic,No alignment compensation DP,561136
+27,0x32e7062a,realistic,DeepShift Baseline,787088
+28,0xb74d0fb2,realistic,Deepshift Optimized,659920
+28,0xb74d0fb2,realistic,Int naive,1056032
+28,0xb74d0fb2,realistic,Float naive,11900976
+28,0xb74d0fb2,realistic,Int addernet,757440
+28,0xb74d0fb2,realistic,Float addernet,9920704
+28,0xb74d0fb2,realistic,No alignment compensation DP,561200
+28,0xb74d0fb2,realistic,DeepShift Baseline,750576
+29,0xa65ed38a,realistic,Deepshift Optimized,843936
+29,0xa65ed38a,realistic,Int naive,1094512
+29,0xa65ed38a,realistic,Float naive,11935168
+29,0xa65ed38a,realistic,Int addernet,760064
+29,0xa65ed38a,realistic,Float addernet,9920352
+29,0xa65ed38a,realistic,No alignment compensation DP,692656
+29,0xa65ed38a,realistic,DeepShift Baseline,942960
+30,0xb38a088d,realistic,Deepshift Optimized,650064
+30,0xb38a088d,realistic,Int naive,1090448
+30,0xb38a088d,realistic,Float naive,11899904
+30,0xb38a088d,realistic,Int addernet,757520
+30,0xb38a088d,realistic,Float addernet,9903552
+30,0xb38a088d,realistic,No alignment compensation DP,542448
+30,0xb38a088d,realistic,DeepShift Baseline,711904
+31,0x8b8148f7,realistic,Deepshift Optimized,526656
+31,0x8b8148f7,realistic,Int naive,1088256
+31,0x8b8148f7,realistic,Float naive,11831888
+31,0x8b8148f7,realistic,Int addernet,755600
+31,0x8b8148f7,realistic,Float addernet,9860208
+31,0x8b8148f7,realistic,No alignment compensation DP,411264
+31,0x8b8148f7,realistic,DeepShift Baseline,576000
+32,0x6b65a6a5,realistic,Deepshift Optimized,667904
+32,0x6b65a6a5,realistic,Int naive,1091232
+32,0x6b65a6a5,realistic,Float naive,11887824
+32,0x6b65a6a5,realistic,Int addernet,756368
+32,0x6b65a6a5,realistic,Float addernet,9877488
+32,0x6b65a6a5,realistic,No alignment compensation DP,561184
+32,0x6b65a6a5,realistic,DeepShift Baseline,772416
+33,0x386ecbe1,realistic,Deepshift Optimized,532832
+33,0x386ecbe1,realistic,Int naive,1081296
+33,0x386ecbe1,realistic,Float naive,11945392
+33,0x386ecbe1,realistic,Int addernet,760064
+33,0x386ecbe1,realistic,Float addernet,9980512
+33,0x386ecbe1,realistic,No alignment compensation DP,417296
+33,0x386ecbe1,realistic,DeepShift Baseline,575984
+34,0x72ff5d2b,realistic,Deepshift Optimized,555952
+34,0x72ff5d2b,realistic,Int naive,1029136
+34,0x72ff5d2b,realistic,Float naive,11002864
+34,0x72ff5d2b,realistic,Int addernet,761376
+34,0x72ff5d2b,realistic,Float addernet,9678928
+34,0x72ff5d2b,realistic,No alignment compensation DP,492336
+34,0x72ff5d2b,realistic,DeepShift Baseline,640944
+35,0x96da1dad,realistic,Deepshift Optimized,593936
+35,0x96da1dad,realistic,Int naive,1078032
+35,0x96da1dad,realistic,Float naive,11973936
+35,0x96da1dad,realistic,Int addernet,759872
+35,0x96da1dad,realistic,Float addernet,9964608
+35,0x96da1dad,realistic,No alignment compensation DP,479968
+35,0x96da1dad,realistic,DeepShift Baseline,674528
+36,0x47378191,realistic,Deepshift Optimized,891632
+36,0x47378191,realistic,Int naive,1092688
+36,0x47378191,realistic,Float naive,11899936
+36,0x47378191,realistic,Int addernet,754752
+36,0x47378191,realistic,Float addernet,9862688
+36,0x47378191,realistic,No alignment compensation DP,704864
+36,0x47378191,realistic,DeepShift Baseline,1006960
+37,0xcf36d58c,realistic,Deepshift Optimized,713568
+37,0xcf36d58c,realistic,Int naive,1095600
+37,0xcf36d58c,realistic,Float naive,11907504
+37,0xcf36d58c,realistic,Int addernet,760160
+37,0xcf36d58c,realistic,Float addernet,9913120
+37,0xcf36d58c,realistic,No alignment compensation DP,548752
+37,0xcf36d58c,realistic,DeepShift Baseline,781536
+38,0xde8a774c,realistic,Deepshift Optimized,733008
+38,0xde8a774c,realistic,Int naive,1054928
+38,0xde8a774c,realistic,Float naive,11912336
+38,0xde8a774c,realistic,Int addernet,757392
+38,0xde8a774c,realistic,Float addernet,9930256
+38,0xde8a774c,realistic,No alignment compensation DP,561328
+38,0xde8a774c,realistic,DeepShift Baseline,788416
+39,0x1a9e720,realistic,Deepshift Optimized,653392
+39,0x1a9e720,realistic,Int naive,1084752
+39,0x1a9e720,realistic,Float naive,12026080
+39,0x1a9e720,realistic,Int addernet,761408
+39,0x1a9e720,realistic,Float addernet,9987696
+39,0x1a9e720,realistic,No alignment compensation DP,561296
+39,0x1a9e720,realistic,DeepShift Baseline,732112
+40,0xc241330c,realistic,Deepshift Optimized,757120
+40,0xc241330c,realistic,Int naive,1070336
+40,0xc241330c,realistic,Float naive,11957536
+40,0xc241330c,realistic,Int addernet,761440
+40,0xc241330c,realistic,Float addernet,10010976
+40,0xc241330c,realistic,No alignment compensation DP,630080
+40,0xc241330c,realistic,DeepShift Baseline,829984
+41,0xce4a2bbe,realistic,Deepshift Optimized,545216
+41,0xce4a2bbe,realistic,Int naive,1063104
+41,0xce4a2bbe,realistic,Float naive,11917408
+41,0xce4a2bbe,realistic,Int addernet,757456
+41,0xce4a2bbe,realistic,Float addernet,9941344
+41,0xce4a2bbe,realistic,No alignment compensation DP,417248
+41,0xce4a2bbe,realistic,DeepShift Baseline,607264
+42,0x28df6ec5,realistic,Deepshift Optimized,593904
+42,0x28df6ec5,realistic,Int naive,1094960
+42,0x28df6ec5,realistic,Float naive,11964704
+42,0x28df6ec5,realistic,Int addernet,761232
+42,0x28df6ec5,realistic,Float addernet,9985760
+42,0x28df6ec5,realistic,No alignment compensation DP,479936
+42,0x28df6ec5,realistic,DeepShift Baseline,674416
+43,0xb2b9437b,realistic,Deepshift Optimized,745664
+43,0xb2b9437b,realistic,Int naive,1066112
+43,0xb2b9437b,realistic,Float naive,11931712
+43,0xb2b9437b,realistic,Int addernet,754704
+43,0xb2b9437b,realistic,Float addernet,9903056
+43,0xb2b9437b,realistic,No alignment compensation DP,561264
+43,0xb2b9437b,realistic,DeepShift Baseline,813680
+44,0x6c307512,realistic,Deepshift Optimized,520176
+44,0x6c307512,realistic,Int naive,1074608
+44,0x6c307512,realistic,Float naive,10911888
+44,0x6c307512,realistic,Int addernet,757280
+44,0x6c307512,realistic,Float addernet,9586352
+44,0x6c307512,realistic,No alignment compensation DP,411120
+44,0x6c307512,realistic,DeepShift Baseline,563536
+45,0x571aa877,realistic,Deepshift Optimized,604656
+45,0x571aa877,realistic,Int naive,1085056
+45,0x571aa877,realistic,Float naive,11927104
+45,0x571aa877,realistic,Int addernet,758528
+45,0x571aa877,realistic,Float addernet,9939200
+45,0x571aa877,realistic,No alignment compensation DP,492416
+45,0x571aa877,realistic,DeepShift Baseline,671184
+46,0x4722938a,realistic,Deepshift Optimized,907056
+46,0x4722938a,realistic,Int naive,1092176
+46,0x4722938a,realistic,Float naive,11951312
+46,0x4722938a,realistic,Int addernet,757936
+46,0x4722938a,realistic,Float addernet,9947104
+46,0x4722938a,realistic,No alignment compensation DP,692656
+46,0x4722938a,realistic,DeepShift Baseline,1006432
+47,0x27cd8131,realistic,Deepshift Optimized,786112
+47,0x27cd8131,realistic,Int naive,1085952
+47,0x27cd8131,realistic,Float naive,11922672
+47,0x27cd8131,realistic,Int addernet,757360
+47,0x27cd8131,realistic,Float addernet,9910016
+47,0x27cd8131,realistic,No alignment compensation DP,630096
+47,0x27cd8131,realistic,DeepShift Baseline,884368
+48,0x371ecd7c,realistic,Deepshift Optimized,587728
+48,0x371ecd7c,realistic,Int naive,1096272
+48,0x371ecd7c,realistic,Float naive,11919568
+48,0x371ecd7c,realistic,Int addernet,757280
+48,0x371ecd7c,realistic,Float addernet,9897616
+48,0x371ecd7c,realistic,No alignment compensation DP,479968
+48,0x371ecd7c,realistic,DeepShift Baseline,636928
+49,0xf50bea64,realistic,Deepshift Optimized,690128
+49,0xf50bea64,realistic,Int naive,1057840
+49,0xf50bea64,realistic,Float naive,11836736
+49,0xf50bea64,realistic,Int addernet,754560
+49,0xf50bea64,realistic,Float addernet,9876192
+49,0xf50bea64,realistic,No alignment compensation DP,561456
+49,0xf50bea64,realistic,DeepShift Baseline,738304
+50,0xc37459ef,realistic,Deepshift Optimized,732672
+50,0xc37459ef,realistic,Int naive,1067648
+50,0xc37459ef,realistic,Float naive,11902864
+50,0xc37459ef,realistic,Int addernet,757392
+50,0xc37459ef,realistic,Float addernet,9942096
+50,0xc37459ef,realistic,No alignment compensation DP,574096
+50,0xc37459ef,realistic,DeepShift Baseline,787264
+51,0x562b0f7a,realistic,Deepshift Optimized,586384
+51,0x562b0f7a,realistic,Int naive,1060336
+51,0x562b0f7a,realistic,Float naive,11917664
+51,0x562b0f7a,realistic,Int addernet,756208
+51,0x562b0f7a,realistic,Float addernet,9911600
+51,0x562b0f7a,realistic,No alignment compensation DP,492384
+51,0x562b0f7a,realistic,DeepShift Baseline,652880
+52,0x1a2a73ee,realistic,Deepshift Optimized,614224
+52,0x1a2a73ee,realistic,Int naive,1084144
+52,0x1a2a73ee,realistic,Float naive,11876912
+52,0x1a2a73ee,realistic,Int addernet,756816
+52,0x1a2a73ee,realistic,Float addernet,9931216
+52,0x1a2a73ee,realistic,No alignment compensation DP,480112
+52,0x1a2a73ee,realistic,DeepShift Baseline,694512
+53,0x17be3112,realistic,Deepshift Optimized,674944
+53,0x17be3112,realistic,Int naive,1078976
+53,0x17be3112,realistic,Float naive,11872736
+53,0x17be3112,realistic,Int addernet,755920
+53,0x17be3112,realistic,Float addernet,9884352
+53,0x17be3112,realistic,No alignment compensation DP,554976
+53,0x17be3112,realistic,DeepShift Baseline,761024
+54,0x6142ea7e,realistic,Deepshift Optimized,788496
+54,0x6142ea7e,realistic,Int naive,1082176
+54,0x6142ea7e,realistic,Float naive,11989536
+54,0x6142ea7e,realistic,Int addernet,761376
+54,0x6142ea7e,realistic,Float addernet,9980064
+54,0x6142ea7e,realistic,No alignment compensation DP,623888
+54,0x6142ea7e,realistic,DeepShift Baseline,875248
+55,0x18c26798,realistic,Deepshift Optimized,775616
+55,0x18c26798,realistic,Int naive,1075856
+55,0x18c26798,realistic,Float naive,11848544
+55,0x18c26798,realistic,Int addernet,755680
+55,0x18c26798,realistic,Float addernet,9899712
+55,0x18c26798,realistic,No alignment compensation DP,630112
+55,0x18c26798,realistic,DeepShift Baseline,890864
+56,0x5be6128f,realistic,Deepshift Optimized,868832
+56,0x5be6128f,realistic,Int naive,1103152
+56,0x5be6128f,realistic,Float naive,11863856
+56,0x5be6128f,realistic,Int addernet,756272
+56,0x5be6128f,realistic,Float addernet,9845904
+56,0x5be6128f,realistic,No alignment compensation DP,686480
+56,0x5be6128f,realistic,DeepShift Baseline,936784
+57,0xd8f56414,realistic,Deepshift Optimized,625248
+57,0xd8f56414,realistic,Int naive,1092880
+57,0xd8f56414,realistic,Float naive,11942848
+57,0xd8f56414,realistic,Int addernet,761104
+57,0xd8f56414,realistic,Float addernet,9954048
+57,0xd8f56414,realistic,No alignment compensation DP,486112
+57,0xd8f56414,realistic,DeepShift Baseline,643296
+58,0x580d7b72,realistic,Deepshift Optimized,526176
+58,0x580d7b72,realistic,Int naive,1085600
+58,0x580d7b72,realistic,Float naive,11902096
+58,0x580d7b72,realistic,Int addernet,756000
+58,0x580d7b72,realistic,Float addernet,9871840
+58,0x580d7b72,realistic,No alignment compensation DP,411184
+58,0x580d7b72,realistic,DeepShift Baseline,575584
+59,0x9a8dca04,realistic,Deepshift Optimized,639216
+59,0x9a8dca04,realistic,Int naive,1025952
+59,0x9a8dca04,realistic,Float naive,11031440
+59,0x9a8dca04,realistic,Int addernet,760016
+59,0x9a8dca04,realistic,Float addernet,9660032
+59,0x9a8dca04,realistic,No alignment compensation DP,486256
+59,0x9a8dca04,realistic,DeepShift Baseline,682176
+60,0x43b7a3a7,realistic,Deepshift Optimized,730784
+60,0x43b7a3a7,realistic,Int naive,1099952
+60,0x43b7a3a7,realistic,Float naive,11991504
+60,0x43b7a3a7,realistic,Int addernet,761056
+60,0x43b7a3a7,realistic,Float addernet,9963696
+60,0x43b7a3a7,realistic,No alignment compensation DP,548592
+60,0x43b7a3a7,realistic,DeepShift Baseline,785520
+61,0xce9ff580,realistic,Deepshift Optimized,323984
+61,0xce9ff580,realistic,Int naive,1076880
+61,0xce9ff580,realistic,Float naive,11943712
+61,0xce9ff580,realistic,Int addernet,756112
+61,0xce9ff580,realistic,Float addernet,9897104
+61,0xce9ff580,realistic,No alignment compensation DP,273632
+61,0xce9ff580,realistic,DeepShift Baseline,335488
+62,0xb1f9164,realistic,Deepshift Optimized,702336
+62,0xb1f9164,realistic,Int naive,1091280
+62,0xb1f9164,realistic,Float naive,11839264
+62,0xb1f9164,realistic,Int addernet,756192
+62,0xb1f9164,realistic,Float addernet,9873936
+62,0xb1f9164,realistic,No alignment compensation DP,561280
+62,0xb1f9164,realistic,DeepShift Baseline,781408
+63,0xbacfb3d1,realistic,Deepshift Optimized,551600
+63,0xbacfb3d1,realistic,Int naive,1102000
+63,0xbacfb3d1,realistic,Float naive,11862784
+63,0xbacfb3d1,realistic,Int addernet,756160
+63,0xbacfb3d1,realistic,Float addernet,9846224
+63,0xbacfb3d1,realistic,No alignment compensation DP,411056
+63,0xbacfb3d1,realistic,DeepShift Baseline,575984
+64,0x759cde67,realistic,Deepshift Optimized,891440
+64,0x759cde67,realistic,Int naive,1082720
+64,0x759cde67,realistic,Float naive,11921696
+64,0x759cde67,realistic,Int addernet,758528
+64,0x759cde67,realistic,Float addernet,9940624
+64,0x759cde67,realistic,No alignment compensation DP,698752
+64,0x759cde67,realistic,DeepShift Baseline,995584
+65,0x89463e86,realistic,Deepshift Optimized,730560
+65,0x89463e86,realistic,Int naive,1095952
+65,0x89463e86,realistic,Float naive,11956512
+65,0x89463e86,realistic,Int addernet,759344
+65,0x89463e86,realistic,Float addernet,9933600
+65,0x89463e86,realistic,No alignment compensation DP,548864
+65,0x89463e86,realistic,DeepShift Baseline,773376
+66,0x1ff49b79,realistic,Deepshift Optimized,586448
+66,0x1ff49b79,realistic,Int naive,1045440
+66,0x1ff49b79,realistic,Float naive,11014288
+66,0x1ff49b79,realistic,Int addernet,760128
+66,0x1ff49b79,realistic,Float addernet,9669648
+66,0x1ff49b79,realistic,No alignment compensation DP,486208
+66,0x1ff49b79,realistic,DeepShift Baseline,671136
+67,0xf91e1d4d,realistic,Deepshift Optimized,518992
+67,0xf91e1d4d,realistic,Int naive,1095888
+67,0xf91e1d4d,realistic,Float naive,11944368
+67,0xf91e1d4d,realistic,Int addernet,760096
+67,0xf91e1d4d,realistic,Float addernet,9927472
+67,0xf91e1d4d,realistic,No alignment compensation DP,417264
+67,0xf91e1d4d,realistic,DeepShift Baseline,574544
+68,0xec1b8ca2,realistic,Deepshift Optimized,614048
+68,0xec1b8ca2,realistic,Int naive,1084624
+68,0xec1b8ca2,realistic,Float naive,11859392
+68,0xec1b8ca2,realistic,Int addernet,756096
+68,0xec1b8ca2,realistic,Float addernet,9894368
+68,0xec1b8ca2,realistic,No alignment compensation DP,486240
+68,0xec1b8ca2,realistic,DeepShift Baseline,688416
+69,0x60e7a114,realistic,Deepshift Optimized,532688
+69,0x60e7a114,realistic,Int naive,1042432
+69,0x60e7a114,realistic,Float naive,11882752
+69,0x60e7a114,realistic,Int addernet,755984
+69,0x60e7a114,realistic,Float addernet,9916000
+69,0x60e7a114,realistic,No alignment compensation DP,410960
+69,0x60e7a114,realistic,DeepShift Baseline,575888
+70,0x142c3fe9,realistic,Deepshift Optimized,409360
+70,0x142c3fe9,realistic,Int naive,1071952
+70,0x142c3fe9,realistic,Float naive,11954096
+70,0x142c3fe9,realistic,Int addernet,757488
+70,0x142c3fe9,realistic,Float addernet,9924704
+70,0x142c3fe9,realistic,No alignment compensation DP,348480
+70,0x142c3fe9,realistic,DeepShift Baseline,457632
+71,0x8d5288f2,realistic,Deepshift Optimized,693888
+71,0x8d5288f2,realistic,Int naive,1100368
+71,0x8d5288f2,realistic,Float naive,11944032
+71,0x8d5288f2,realistic,Int addernet,758672
+71,0x8d5288f2,realistic,Float addernet,9932368
+71,0x8d5288f2,realistic,No alignment compensation DP,548896
+71,0x8d5288f2,realistic,DeepShift Baseline,743120
+72,0x4b0dbb42,realistic,Deepshift Optimized,487856
+72,0x4b0dbb42,realistic,Int naive,1090720
+72,0x4b0dbb42,realistic,Float naive,11957184
+72,0x4b0dbb42,realistic,Int addernet,760048
+72,0x4b0dbb42,realistic,Float addernet,9921680
+72,0x4b0dbb42,realistic,No alignment compensation DP,411120
+72,0x4b0dbb42,realistic,DeepShift Baseline,549424
+73,0xd453dd33,realistic,Deepshift Optimized,720720
+73,0xd453dd33,realistic,Int naive,1064432
+73,0xd453dd33,realistic,Float naive,11915760
+73,0xd453dd33,realistic,Int addernet,758624
+73,0xd453dd33,realistic,Float addernet,9984192
+73,0xd453dd33,realistic,No alignment compensation DP,561344
+73,0xd453dd33,realistic,DeepShift Baseline,807456
+74,0xa0ee89af,realistic,Deepshift Optimized,574240
+74,0xa0ee89af,realistic,Int naive,1050768
+74,0xa0ee89af,realistic,Float naive,10984992
+74,0xa0ee89af,realistic,Int addernet,761264
+74,0xa0ee89af,realistic,Float addernet,9689472
+74,0xa0ee89af,realistic,No alignment compensation DP,486304
+74,0xa0ee89af,realistic,DeepShift Baseline,634640
+75,0x9e574f7b,realistic,Deepshift Optimized,394016
+75,0x9e574f7b,realistic,Int naive,1086544
+75,0x9e574f7b,realistic,Float naive,11901616
+75,0x9e574f7b,realistic,Int addernet,757312
+75,0x9e574f7b,realistic,Float addernet,9872800
+75,0x9e574f7b,realistic,No alignment compensation DP,336240
+75,0x9e574f7b,realistic,DeepShift Baseline,412080
+76,0xe2acf730,realistic,Deepshift Optimized,774960
+76,0xe2acf730,realistic,Int naive,1040848
+76,0xe2acf730,realistic,Float naive,11960272
+76,0xe2acf730,realistic,Int addernet,760192
+76,0xe2acf730,realistic,Float addernet,9963168
+76,0xe2acf730,realistic,No alignment compensation DP,630048
+76,0xe2acf730,realistic,DeepShift Baseline,868400
+77,0xdc98d2c2,realistic,Deepshift Optimized,645248
+77,0xdc98d2c2,realistic,Int naive,1091728
+77,0xdc98d2c2,realistic,Float naive,11980832
+77,0xdc98d2c2,realistic,Int addernet,761360
+77,0xdc98d2c2,realistic,Float addernet,9984944
+77,0xdc98d2c2,realistic,No alignment compensation DP,486272
+77,0xdc98d2c2,realistic,DeepShift Baseline,669728
+78,0x5c941cf1,realistic,Deepshift Optimized,687408
+78,0x5c941cf1,realistic,Int naive,1091408
+78,0x5c941cf1,realistic,Float naive,11916816
+78,0x5c941cf1,realistic,Int addernet,758864
+78,0x5c941cf1,realistic,Float addernet,9960640
+78,0x5c941cf1,realistic,No alignment compensation DP,548784
+78,0x5c941cf1,realistic,DeepShift Baseline,754592
+79,0x93cd59c0,realistic,Deepshift Optimized,661760
+79,0x93cd59c0,realistic,Int naive,1083120
+79,0x93cd59c0,realistic,Float naive,11871632
+79,0x93cd59c0,realistic,Int addernet,757136
+79,0x93cd59c0,realistic,Float addernet,9905232
+79,0x93cd59c0,realistic,No alignment compensation DP,567408
+79,0x93cd59c0,realistic,DeepShift Baseline,753920
+80,0x3139d32d,realistic,Deepshift Optimized,639424
+80,0x3139d32d,realistic,Int naive,1078528
+80,0x3139d32d,realistic,Float naive,11936368
+80,0x3139d32d,realistic,Int addernet,758560
+80,0x3139d32d,realistic,Float addernet,9932272
+80,0x3139d32d,realistic,No alignment compensation DP,486160
+80,0x3139d32d,realistic,DeepShift Baseline,688448

@@ -1,0 +1,13 @@
+bin_files/*
+data/*
+# Build output and caches
+build/
+__pycache__/
+*.pyc
+*.so
+*.o
+*.egg-info/
+*.log
+.DS_Store
+.vscode/
+.venv/
